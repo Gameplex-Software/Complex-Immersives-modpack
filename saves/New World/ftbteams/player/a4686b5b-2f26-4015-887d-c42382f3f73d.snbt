@@ -1,0 +1,16 @@
+{
+	id: "a4686b5b-2f26-4015-887d-c42382f3f73d"
+	type: "player"
+	player_name: "Trident_For_U"
+	ranks: {
+		a4686b5b-2f26-4015-887d-c42382f3f73d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Trident_For_U"
+		"ftbteams:color": "#B8FF59"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

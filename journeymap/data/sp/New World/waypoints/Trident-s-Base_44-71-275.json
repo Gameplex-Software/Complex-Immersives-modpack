@@ -1,0 +1,24 @@
+{
+  "id": "Trident-s-Base_44-71-275",
+  "name": "Trident\u0027s Base",
+  "groupName": ":Waystones",
+  "displayId": "40654baf-10ff-422b-87c3-a1a1a520ae9f",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": 44,
+  "y": 71,
+  "z": 275,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

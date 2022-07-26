@@ -1,0 +1,36 @@
+type = hud
+
+customization-meta {
+  renderorder = foreground
+}
+
+customization {
+  action = editbosshealth
+  y = 27
+}
+
+customization {
+  action = editsidebar
+  y = -27
+}
+
+customization {
+  x = -53
+  action = editplayerhealthbar
+  y = -31
+}
+
+customization {
+  orientation = top-left
+  x = 11
+  action = addmirroredplayer
+  actionid = b19fd903-dcd5-4465-a499-c419deb50c581658863461210
+  y = 199
+  scale = 25.0
+  rotateplayer = true
+  headrotationy = 0.0
+  headrotationx = 180.0
+  bodyrotationx = 180.0
+  bodyrotationy = 0.0
+}
+

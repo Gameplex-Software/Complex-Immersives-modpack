@@ -1,0 +1,59 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  x = 0
+  action = editlogo
+  y = -39
+}
+
+customization {
+  action = editprogressbar
+  y = -1
+  barcolor = #222222
+}
+
+customization {
+  orientation = bottom-centered
+  shadow = false
+  x = -4
+  textcolor = #ffffff
+  action = addtext
+  actionid = f441ef6e-7e24-4e91-b76d-53c5ec6b40e81658517412594
+  y = -22
+  scale = 1.0
+  alignment = left
+  value = Loading Simply Immersive...
+}
+
+customization {
+  path = resources/gxfulllogonoshadow.png
+  orientation = mid-centered
+  x = -2
+  width = 163
+  action = addtexture
+  actionid = d99ff290-9590-413a-ad76-4445014469331658517560792
+  y = 22
+  height = 23
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = 0
+  textcolor = #ffffff
+  action = addtext
+  actionid = 97f7c299-5a9f-40b9-b0d7-ba7bbf33e0ed1658517616810
+  y = 5
+  scale = 1.0
+  alignment = left
+  value = Pack created by:
+}
+

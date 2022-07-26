@@ -1,0 +1,29 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.ChatScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  showname = true
+  orientation = top-left
+  crouching = false
+  x = 457
+  slim = false
+  actionid = 618cef84-77c4-4a89-a47c-f2a2250adb8e1658863282224
+  action = addentity
+  y = 230
+  scale = 25
+  playername = %playername%
+  parrot = false
+}
+
